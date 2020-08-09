@@ -83,4 +83,14 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/kawalpreet/Pictures/Screenshot%20from%202020-08-09%2017-10-56.png" added="2020-08-09T21:10:57Z" modified="2020-08-09T21:10:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gsd-media-keys" exec="&apos;gsd-media-keys %u&apos;" modified="2020-08-09T21:10:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

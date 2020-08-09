@@ -1,94 +1,3 @@
-apropos editor
-apropos upload
-man man
-man ls/upload
-man ls
-man ls upload
-man ls all
-man ls -d
-git clone https
-git clone
-git clone https://githhub.com
-cd Documents
-ls
-cat USstates.txt
-ls
-WC USstates.txt
-wc USstates.txt
-head USstates.txt
-tail USstates.txt
-grep "x" USstates.txt
-grep "q" USstates.txt
-grep "New" USstates.txt
-grep "nia" USstates.txt
-egrep "i.g" USstates.txt
-egrep "i.g." USstates.txt
-egrep "g.i." USstates.txt
-egrep "gi" USstates.txt
-cd
-egrep "s+as" USstates.txt
-cd Documents
-egrep "s+as" USstates.txt
-egrep "s*as" USstates.txt
-"s{2}" USstates.txt
-egrep "s{2}" USstates.txt
-egrep "s{3}" USstates.txt
-egrep "t{2}" USstates.txt
-egrep "s{2,3}" USstates.txt
-egrep "(iss) {2}" USstates.txt
-egrep "(iss){2}" USstates.txt
-egrep "(s){2}" USstates.txt
-egrep "s{2}" USstates.txt
-egrep "t{2,3} USstates.txt
-
-
-
-q
-
-egrep "s{2,3}" USstates.txt
-cd Documents
-egrep "(iss){2}" states.txt
-egrep "(i.{2}){3} states.txt
-egrep "(i.{2}){3}" USstates.txt
-cd Documents
-egrep "(i.{2}){3}" USstates.txt
-cd
-pwd
-ls
-cat small.txt
-ls
-cat small.txt
-ls
-egrep "\W" small.txt
-egrep "[aeiou]" small.txt
-cd Documents
-ls
-find small.txt
-cd
-find small.txt
-egrep "\W" small.txt
-cd Public
-ls
-cd Desktop
-ls
-cd
-cd Desktop
-ls
-cd
-find . -name "small.txt"
-cd Documents
-ls
-cat states.txt
-cat USstates.txt
-cat six.txt
-ls
-cat four.txt
-cd
-ls
-cat small.txt
-egrep "a" small.txt
-echo "abcdefghijklmnopqrstuvwzyx" >>small.txt
-echo "ABCEDGFHIJKLMNOPQESTUVWXYZ" >>small.txt
 cat small.txt
 echo "Sue" >>small.txt
 cat small.txt
@@ -1998,3 +1907,94 @@ chapter_nu=5
 echo $chapter_nu
 let chapter_nu=$1
 nano chap.sh
+git --version
+git config --global user.name "myUserName"
+git config --flobal user.email myName@email.com
+git config --global user.name "myUserName"
+git config --global user.email myName@email.com
+cd
+mkdir my-first-repo
+cd my-first-repo
+cd
+git init
+echo "Welcome to My First Repo" > readme.txt
+git status
+git add small.txt
+git status
+git add readme.txt
+git status
+git add states.txt
+git add var1.sh
+git status
+git touch file.txt
+ls
+cd
+cd Documents
+ls
+cd 
+git add draft_journal_entr.txt
+git add draft_journal_entr .txt
+cd ~/Documents
+git add draft_journal_entr.txt
+git status
+cd
+echo "Learning git is going well so far." >>readme.txt
+echo "Learning basic programmin is opening a new world for me." >> readme.txt
+ech "Git is fun." >>readme.txt
+echo "Git is fun." >> readme.txt
+git status
+cd my-first-repo
+ls
+git status
+cd
+git status
+git rm --cached readme.txt
+rm 'readme.txt'
+git status
+git add readme.txt
+git add iago.txt
+git status
+git rm --cached iago.txt
+git status
+git add iago.txt
+git status
+git commit -m "added readme.txt"
+git status
+touch file3.txt
+touch file4.txt
+ls
+echo "Learning Git is going well so far." >> readme.txt
+git status
+echo "don't let your past blackmail your present to ruin your future." >> readme.txt
+git status
+git add toc.txt
+git status
+git add -A
+git status
+git commit -m "added two files"
+git reset --soft HEAD
+git status
+git reset --soft HEAD~
+git status
+mv file3.txt file4.txt
+git status
+git add -A
+git status
+git add file3.txt
+git add file5.txt
+git add file.txt
+git commit -m "added two files"
+git add file3.txt
+git --version
+git init
+echo "Welcome to My First Repo: > readme.txt
+mkdir my-second-repo
+cd my-second-repo
+cd
+git init
+echo "Welcome to Preet's World" >readme.txt
+git status
+git add readme.txt
+git status
+git add file1.txt
+git status
