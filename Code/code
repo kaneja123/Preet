@@ -1,0 +1,4 @@
+```{r, engine='bash' , eval=False}
+cd ~/Code/
+nano math.sh
+```
