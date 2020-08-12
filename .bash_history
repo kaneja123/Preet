@@ -1,29 +1,3 @@
-cat small.txt
-echo "Sue" >>small.txt
-cat small.txt
-echo "012345678910111213214151617181920" >>small.txt
-cat small.txt
-echo "aa bb ccc dd cc ddd ee ff gghh ii jj kk ll mm nn oo pp qqrr ss tt uu vv xx ww yy zz" >> small.txt
-cat small.txt
-echo "tragedy + time = humor" >>small.txt
-echo "rhythms" >>small.txt
-echo "http://www.stjohns.edu" >>small.txt
-echo "abd" >>small.txt
-echo "xyz" >>small.txt
-echo"#####*****&&&%%%%---====" >>small.txt
-echo "#####*****%%%%%&&&&__----====" >>small.txt
-egrep "\w" small.txt
-egrep "\s" small.txt
-egrep -v "\w" small.txt
-egrep -v "\W" small.txt
-egrep "\w" small.txt
-egrep "\W" small.txt
-egrep "[aeiou]" small.txt
-egrep "[^aeiou]" small.txt
-egrep "[e-q]" small.txt
-egrep "[e-qE-Q]" small.txtt
-egrep "[e-qE-Q]" small.txt
-egrep "\+" small.txt
 egrep "\." small.txt
 egrep "^M" small.txt
 cd
@@ -1998,3 +1972,29 @@ git add readme.txt
 git status
 git add file1.txt
 git status
+git add *.txt
+git commit -m "added *.txt"
+git status
+git bransh
+git branch
+cat maste
+cat master
+cat readme.txt
+ls
+git status
+cat readme.txt
+echo "Finally my CRISPR is CRISP" >>readme.txt
+cat readme.txt
+echo "TLR has started operating."  >> readme.txt
+echo "This TLR is my first address." "Time to work harder than before." >> readme.txt
+cat readme.txt
+nano readme.txt
+git branch
+git merge update-readme
+cat update-readme
+cat readme.txt
+git branch
+git checkout update-readme
+git add -A
+git commit -m update-readme
+git merge update-readme
