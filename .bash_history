@@ -1,41 +1,3 @@
-egrep "\." small.txt
-egrep "^M" small.txt
-cd
-ls
-egrep "^M" USstates.txt
-cd Documents
-ls
-egrep "^M" USstates.txt
-egrep "North|South" USstates.txt
-egrep "North|South|East|West" USstates.txt
-egrep -n "t$" USstates.txt
-egrep -n "t$"USstates.txt
-cd Documents
-ls
-egrep "\W" USstates.txt
-egrep "North" USstate.txt
-egrep "North" USstates.txt
-egrep  -n "t$" USstates.txt
-cat USstates.txt
-egrep "t$" USstates.txt
-egrep -n "t$" USstates.txt
-egrep "New" USstates.txt
-egrep -n "t" USstates.txt
-egrep "^[AEIOU]{1}.+[aeiou]{1}$" USstates.txt
-egrep "[AEIOU]{1}+[aeiou]{1}$" USstates.txt
-egrep "^[AEIOU]{1}+[aeiou]{1}$" USstates.txt
-egrep "^[AEIOU]{1}.+[aeiou]{1}$" USstates.txt
-egrep "^[AEIOU" USstates.txt
-egrep "[AEIOU]" USstates.txt
-egrep "^[AEIOU]+[aeiou]$" USstates.txt
-egrep "[aeiou]" USstates.txt
-egrep "^[AEIOU]+[aeiou]$" USstates.txt
-egrep "^[AEIOU]" USstates.txt
-egrep "[aeiou]$" USstates.txt
-egrep "[aeiou]" USstates.txt
-egrep "$[aeiou]" USstates.txt
-egrep "[aeiou]$" USstates.txt
-cd
 ls
 cat small.txt
 cat states.txt
@@ -1998,3 +1960,41 @@ git checkout update-readme
 git add -A
 git commit -m update-readme
 git merge update-readme
+ls
+nano numbeb.sh
+bash numbeb.sh
+bash numbeb.sh 4 6 
+bash numbed.sh 5 8
+nano numbed.sh
+git chechout update-readme
+git checkot update-readme
+git checkout update-readme
+cat readme.txt
+git branch
+cat readme.txt
+echo " this is my first line on updat-readme branch." >> readme.txt
+echo "this is now second line on update-readme brach." >> readme.txt
+echo "this is third line on update-readme." >> readme.txt
+echo "this is the fourth line on update-readme." >> readme.txt
+cat readme.txt
+git add -A
+git commit -m "added 4 lines on update-readme." >> readme.tst
+git commit -m "added 4 lineson update-readme." >> readme.txt
+cat readme.txt
+git add -A
+git commit -m "added"
+cat readme.txt
+git branch
+cat readme.txt
+git push
+git checkout master
+git branch
+cat readme.txt
+git checkout update-readme
+git branch
+git checkout update-readme
+git -Add A
+git add -A
+git checkout update-readme
+git commit -m "readme.txt
+
