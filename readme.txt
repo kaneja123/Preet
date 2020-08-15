@@ -22,3 +22,4 @@ Untracked files:
 	readme.tst
 
 no changes added to commit (use "git add" and/or "git commit -a")
+add 5th line on update-readme
