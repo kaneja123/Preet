@@ -12,7 +12,7 @@ And as  **imagination** while sleeping SARS-COV-2 spread all around the globe, t
 3. prevented
 4. but utterly ignored.
 
-Here is `Jade Goodman` in the middle of a sentence.
+Here is `Jane Goodall` in the middle of a sentence.
 
 ```
 This is
