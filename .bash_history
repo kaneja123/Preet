@@ -1,17 +1,3 @@
-ls
-cat small.txt
-cat states.txt
-cat USstates.txt
-cd Documents
-ls
-cat states.txt
-cat USstates.txt
-cat canada.txt
-cd
-ls
-cat small.txt
-cat small.tt
-cd small.txt
 cat small.txt
 save small.txt
 small.txt >> ~/
@@ -1998,3 +1984,17 @@ git add -A
 git checkout update-readme
 git commit -m "readme.txt
 
+ls
+git branch
+git pull
+git-pull(1)
+git-pull (1)
+git-pull
+git pull
+git - pull (1)
+git - pull '1'
+git -C
+git [ -C ]
+git gc
+git --help
+git show
