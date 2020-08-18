@@ -1,5 +1,5 @@
-#COVID-19 caused by SARS-COV-2 started before Nov,2019, officials knew about the outbread.
- ## Fire is about to engulf whole world, but officials were in deep sleep because their lives were not at risk.
+#COVID-19 caused by SARS-COV-2 started before Nov,2019, officials knew about the outbreak.
+ ## Fire is about to engulf the whole world, but officials were in deep sleep because their lives were not at risk.
 
 And as  **imagination** while sleeping SARS-COV-2 spread all around the globe, taking lives, killing people, and debilitating the whole world.
 
