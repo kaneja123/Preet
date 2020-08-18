@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  this is my first line on updat-readme branch.
 this is now second line on update-readme brach.
 this is third line on update-readme.
@@ -25,3 +26,9 @@ no changes added to commit (use "git add" and/or "git commit -a")
 add 5th line on update-readme
 add 5ht line
 add 6th line.
+=======
+ I added this line in the update-readme branch.
+I am adding a second line in the update-readme branch.
+ I am adding a third line to the update-readme branch.
+ I am adding a fourth line to update-readme
+>>>>>>> master

@@ -3,5 +3,10 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
+<<<<<<< HEAD
 IBUS_ADDRESS=unix:abstract=/home/kawalpreet/.cache/ibus/dbus-SupvdAFg,guid=3ab24b087782207730f8089e5f382e98
 IBUS_DAEMON_PID=1573
+=======
+IBUS_ADDRESS=unix:abstract=/home/kawalpreet/.cache/ibus/dbus-GEGpXeMx,guid=06d725843e3133ece3be6ef65f3b27e1
+IBUS_DAEMON_PID=1567
+>>>>>>> master
