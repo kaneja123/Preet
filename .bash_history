@@ -1,82 +1,4 @@
 cat small.txt
-echo "Sue" >>small.txt
-cat small.txt
-echo "012345678910111213214151617181920" >>small.txt
-cat small.txt
-echo "aa bb ccc dd cc ddd ee ff gghh ii jj kk ll mm nn oo pp qqrr ss tt uu vv xx ww yy zz" >> small.txt
-cat small.txt
-echo "tragedy + time = humor" >>small.txt
-echo "rhythms" >>small.txt
-echo "http://www.stjohns.edu" >>small.txt
-echo "abd" >>small.txt
-echo "xyz" >>small.txt
-echo"#####*****&&&%%%%---====" >>small.txt
-echo "#####*****%%%%%&&&&__----====" >>small.txt
-egrep "\w" small.txt
-egrep "\s" small.txt
-egrep -v "\w" small.txt
-egrep -v "\W" small.txt
-egrep "\w" small.txt
-egrep "\W" small.txt
-egrep "[aeiou]" small.txt
-egrep "[^aeiou]" small.txt
-egrep "[e-q]" small.txt
-egrep "[e-qE-Q]" small.txtt
-egrep "[e-qE-Q]" small.txt
-egrep "\+" small.txt
-egrep "\." small.txt
-egrep "^M" small.txt
-cd
-ls
-egrep "^M" USstates.txt
-cd Documents
-ls
-egrep "^M" USstates.txt
-egrep "North|South" USstates.txt
-egrep "North|South|East|West" USstates.txt
-egrep -n "t$" USstates.txt
-egrep -n "t$"USstates.txt
-cd Documents
-ls
-egrep "\W" USstates.txt
-egrep "North" USstate.txt
-egrep "North" USstates.txt
-egrep  -n "t$" USstates.txt
-cat USstates.txt
-egrep "t$" USstates.txt
-egrep -n "t$" USstates.txt
-egrep "New" USstates.txt
-egrep -n "t" USstates.txt
-egrep "^[AEIOU]{1}.+[aeiou]{1}$" USstates.txt
-egrep "[AEIOU]{1}+[aeiou]{1}$" USstates.txt
-egrep "^[AEIOU]{1}+[aeiou]{1}$" USstates.txt
-egrep "^[AEIOU]{1}.+[aeiou]{1}$" USstates.txt
-egrep "^[AEIOU" USstates.txt
-egrep "[AEIOU]" USstates.txt
-egrep "^[AEIOU]+[aeiou]$" USstates.txt
-egrep "[aeiou]" USstates.txt
-egrep "^[AEIOU]+[aeiou]$" USstates.txt
-egrep "^[AEIOU]" USstates.txt
-egrep "[aeiou]$" USstates.txt
-egrep "[aeiou]" USstates.txt
-egrep "$[aeiou]" USstates.txt
-egrep "[aeiou]$" USstates.txt
-cd
-ls
-cat small.txt
-cat states.txt
-cat USstates.txt
-cd Documents
-ls
-cat states.txt
-cat USstates.txt
-cat canada.txt
-cd
-ls
-cat small.txt
-cat small.tt
-cd small.txt
-cat small.txt
 save small.txt
 small.txt >> ~/
 exit
@@ -1998,3 +1920,81 @@ git add readme.txt
 git status
 git add file1.txt
 git status
+git add *.txt
+git commit -m "added *.txt"
+git status
+git bransh
+git branch
+cat maste
+cat master
+cat readme.txt
+ls
+git status
+cat readme.txt
+echo "Finally my CRISPR is CRISP" >>readme.txt
+cat readme.txt
+echo "TLR has started operating."  >> readme.txt
+echo "This TLR is my first address." "Time to work harder than before." >> readme.txt
+cat readme.txt
+nano readme.txt
+git branch
+git merge update-readme
+cat update-readme
+cat readme.txt
+git branch
+git checkout update-readme
+git add -A
+git commit -m update-readme
+git merge update-readme
+ls
+nano numbeb.sh
+bash numbeb.sh
+bash numbeb.sh 4 6 
+bash numbed.sh 5 8
+nano numbed.sh
+git chechout update-readme
+git checkot update-readme
+git checkout update-readme
+cat readme.txt
+git branch
+cat readme.txt
+echo " this is my first line on updat-readme branch." >> readme.txt
+echo "this is now second line on update-readme brach." >> readme.txt
+echo "this is third line on update-readme." >> readme.txt
+echo "this is the fourth line on update-readme." >> readme.txt
+cat readme.txt
+git add -A
+git commit -m "added 4 lines on update-readme." >> readme.tst
+git commit -m "added 4 lineson update-readme." >> readme.txt
+cat readme.txt
+git add -A
+git commit -m "added"
+cat readme.txt
+git branch
+cat readme.txt
+git push
+git checkout master
+git branch
+cat readme.txt
+git checkout update-readme
+git branch
+git checkout update-readme
+git -Add A
+git add -A
+git checkout update-readme
+git commit -m "readme.txt
+
+ls
+git branch
+git pull
+git-pull(1)
+git-pull (1)
+git-pull
+git pull
+git - pull (1)
+git - pull '1'
+git -C
+git [ -C ]
+git gc
+git --help
+git show
