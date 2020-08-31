@@ -57,10 +57,10 @@ UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/trusty-updates/main
 
 Dist: xenial
 Name: Xenial Xerus
-Version: 16.04.6 LTS
+Version: 16.04.7 LTS
 Date: Thu, 21 April 2016 16:04:00 UTC
 Supported: 1
-Description: This is the 16.04.6 LTS release
+Description: This is the 16.04.7 LTS release
 Release-File: http://archive.ubuntu.com/ubuntu/dists/xenial/Release
 ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
 ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
@@ -69,10 +69,10 @@ UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/xenial-updates/main
 
 Dist: bionic
 Name: Bionic Beaver
-Version: 18.04.4 LTS
+Version: 18.04.5 LTS
 Date: Thu, 26 April 2018 18:04:00 UTC
 Supported: 1
-Description: This is the 18.04.4 LTS release
+Description: This is the 18.04.5 LTS release
 Release-File: http://archive.ubuntu.com/ubuntu/dists/bionic/Release
 ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
 ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
