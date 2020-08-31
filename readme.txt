@@ -1,6 +1,5 @@
 <<<<<<< HEAD
  this is my first line on updat-readme branch.
-this is now second line on update-readme brach.
 this is third line on update-readme.
 this is the fourth line on update-readme.
 On branch update-readme
@@ -33,3 +32,4 @@ I am adding a second line in the update-readme branch.
  I am adding a fourth line to update-readme
 >>>>>>> master
 Learning Git is fun
+The third line.

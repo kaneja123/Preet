@@ -1,119 +1,3 @@
-cat small.txt
-save small.txt
-small.txt >> ~/
-exit
-cd
-ls
-cat canadastates.txt
-grep "x" canadastates.txt
-grep "x" states.txt
-grep "o" canadastates.txt
-grep "b" canadastates.txt
-grep "i" canadastates.txt
-ls
-cat small.tx
-cat small.txt
-egrep "[aeio]" small.txt
-egrep "\W" canadastates.txt
-egrep "\W" small.txt
-egrep "\S" states.txt
-egrep "\W" small.txt
-egrep "\W" canadastates.txt
-ls
-egrep "\W" canadastates.txt
-egrep "\S" states.txt
-ls
-egrep "\W" small.txt
-egrep "\W" canadastates.txt
-cat canadastates.txt
-ls
-egrep "\S" small.txt
-egrep "\s" states.txt
-egrep "\S" states.txt
-head states.txt
-heat canadastates.txt
-head canadastates.txt
-head states.txt
-tail states.txt
-tail canadastates.txt
-egrep "\." small.txt
-egrep "^M" states.txt
-egrep "I$" states.txt
-egrep "i$" states.txt
-egrep "i$" canadastates.txt
-ls
-egrep "North|South" states.txt
-egrep "North|South|East|West" states.txt
-find . -names "states.txt"
-find -names "states.txt"
-fine "states.txt
-alias docs='cd ~\Documents'
-alias edbp='nano ~/.bash_profile'
-docs
-edbp
-pwd
-ce
-cd
-ls
-find "states.txt"
-find ".png"
-find . -name "states.txt"
-find . -name ".png"
-find . _name "small.txt"
-cd
-pwd
-cd
-ls
-find . - name "states.txt"
-cd
-ls
-find . -name "states.txt"
-find . -name "small.txt"
-find . -name "canadastates.txt"
-cd
-ls
-find .-name "*.png"
-fine .-name "*.jpg"
-find .-name "*.png"
-find .-name ".png"
-cd
-ls
-find . -name "exot"
-find . -name "*.jpg"
-find . -name "*png"
-cd
-ls
-touch new.txt
-echo "new york" new.txt
-ls
-cat states.txt
-heae -n 5 ~/.bash_history
-head -n 5 ~/.bash_history
-grep "canada" ~/.bash_history
-grep "canada" ~/ .bash_history
-grep "canada" ~/.bash_history
-egrep "New" state.txt canada.txt
-grep "New" states.txt
-grep "New" canadatates.txt
-ls
-grep "New" canadastates.txt
-alias docs='cd ~/Documents
-h
-help
-~/.bash_profile
-edbp
-alias edbp='nano ~/.bash_profile
-apropos md5
-md5sum states.txt
-apropos sort
-apropos uniq
-apropos unique
-find journal
-apropos draft
-apropos music
-find rhythmbox (1)
-find 'rhythmbox'
-find rhythmbox
 rhythmbox (1)
 apropos rhythmbox
 rhythmbox (1)
@@ -1998,3 +1882,119 @@ git [ -C ]
 git gc
 git --help
 git show
+git status
+git --version
+git commit -m "added readme.txt"
+touch joke.txt
+touch joking.txt
+ls
+echo "Learning Git is fun" >> readme.txt
+git status
+git add -A
+git status
+git commit -m "added two files"
+git reset --softhead
+git rm --cached joke.txt
+git rm --cached joking.txt
+git status
+got log
+git log
+echo "The third line." >> readme.txt
+git diff readme.txt
+nano readme.txt
+git diff readme.txt
+git status
+cat readme.txt
+nano readme.txt
+nano guessinggame.sh
+git branch
+git branch my-new-feature
+git branch
+git checkout my-new-feature
+git branch
+git branch -d my-new-feature
+git branch
+git branch -d my-new-feature
+cd
+ls
+pwd
+git branch
+git checkout master
+git branch
+git branch -d my-new-feature
+git rm my-new-feature
+git checkout update-readme
+git branch
+git branch -d my-new-feature
+nano guessinggame.sh
+bash guessinggame.sh
+echo ?
+echo $?
+bash guessinggame.sh
+echo $?
+nano guess.sh
+bash guess.sh
+nano guess.sh
+bash guess.sh
+nano guep.sh
+bash guep.sh
+nano guep.ch
+nano guep.sh
+bash guep.sh
+echo$?
+echo $?
+bash guep.sh
+echo $?
+nano guess.sh
+bash guess.sh
+ls
+cat guess.sh
+echo "type in a string and then press enter"
+read response
+nano read.sh
+bash read.sh
+[[ 4 -gt 3 ]]
+echo $?
+[[ 4 -lt 3 ]]
+echo $?
+cat guess.sh
+bash guess.sh
+cat guess.sh
+nano guess.sh
+nano simple.sh
+bash simple.sh
+nano simple.sh
+bash simple.sh
+bash simple.sh 5
+cat simple.sh
+cat guess.sh
+bash guess.sh
+man ls
+clear
+man ls -l
+man ls
+clear
+pwd
+ls
+cd photos
+ls
+cd photos
+cd Documents
+ls
+cd
+egrep "[aeiou]" small.txt
+cd
+ls
+egrep "[aeiou]" small.txt
+cd Desktop
+ls
+egrep "[aeiou]" small.txt
+egrep '[^aeiou]" small.txt
+make draft_journal_entry.txt
+make girraf_journal_entry.txt
+ls
+make giraf_journal_entry.txt
+makefile: giraf_journal_entry.txt
+make: giraf_journal_entry.txt
+make giraf_journal_enty.txt
+nano makefile
