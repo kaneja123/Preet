@@ -1,7 +1,3 @@
-rhythmbox (1)
-apropos rhythmbox
-rhythmbox (1)
-grep 'rhythmbox (1)'
 cd ~/Documents/Journal
 ls
 nanl makefile
@@ -1998,3 +1994,7 @@ makefile: giraf_journal_entry.txt
 make: giraf_journal_entry.txt
 make giraf_journal_enty.txt
 nano makefile
+ls
+nano guessinggame.sh
+cat guessinggame.sh
+nano guessinggame.sh
