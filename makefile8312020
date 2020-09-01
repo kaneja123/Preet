@@ -1,0 +1,7 @@
+README.md: guessinggame.sh
+	echo "#Guessinggame" > README.md
+	echo "## Peer-graded Assignment: Bash, make, git, and github by Kaneja >> README.md
+	echo " 8, 31, 2020
+	echo "Lines of code in guessinggame.sh:" >> README.md
+	wc -l guessinggame.sh | egrep -o "[0-9]+" >> README.md
+
